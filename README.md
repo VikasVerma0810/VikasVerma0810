@@ -59,7 +59,7 @@ Pune, India
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikasverma0810&show_icons=true&theme=default" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasverma0810&theme=default&hide_total_contributions=true" />
 </p>
 
 
