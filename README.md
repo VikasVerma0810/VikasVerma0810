@@ -58,20 +58,8 @@ Pune, India
 ### 📊 GitHub Stats
 
 
-### <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasverma0810&theme=default&hide_total_contributions=true" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasverma0810&theme=default&hide_total_contributions=true" />
 
-<p align="center">
-  <a href="https://github.com/VikasVerma0810">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasverma0810&theme=default&hide_total_contributions=true" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Official GitHub contributions:</strong>
-  <a href="https://github.com/VikasVerma0810">
-    View my current total on GitHub
-  </a>
-</p>
 
 ---
 
