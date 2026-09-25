@@ -58,18 +58,7 @@ Pune, India
 ### 📊 GitHub Stats
 
 
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasverma0810&theme=default&hide_total_contributions=true" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasverma0810&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vikasverma0810&layout=compact" />
-</p>
 
 ---
 
